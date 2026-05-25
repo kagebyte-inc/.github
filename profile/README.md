@@ -18,7 +18,7 @@
 
 we are an independent software and interactive media group focused on:
 
-- rhyrhm games
+- rhythm games
 - visual systems
 - reverse engineering and post-support
 - arcade entertainment systems

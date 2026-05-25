@@ -1,12 +1,12 @@
 <table>
 	<tr>
 		<td width="340">
-			<img src="rsrc/1208.jpg" width="320">
+			<img src="https://github.com/kagebyte-inc/.github/raw/master/profile/rsrc/1208.jpg" width="320">
 		</td>
 		<td>
 			<h1>Kagebyte works</h1>
 			<p>
-				<img src="rsrc/1922.png" width="24"> <b>青森市, Japan</b>
+				<img src="https://github.com/kagebyte-inc/.github/raw/master/profile/rsrc/1922.png" width="24"> <b>青森市, Japan</b>
 			</p>
 		</td>
 	</tr>
@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="rsrc/1823.png" width="24"> kagebyte://about
+## <img src="https://github.com/kagebyte-inc/.github/raw/master/profile/rsrc/1823.png" width="24"> kagebyte://about
 
 we are an independent software and interactive media group focused on:
 
@@ -25,7 +25,7 @@ we are an independent software and interactive media group focused on:
 
 ---
 
-## <img src="rsrc/8192.png" width="24"> kagebyte://stack
+## <img src="https://github.com/kagebyte-inc/.github/raw/master/profile/rsrc/8192.png" width="24"> kagebyte://stack
 
 ```txt
 • C/C++
@@ -38,7 +38,7 @@ we are an independent software and interactive media group focused on:
 
 ---
 
-## <img src="rsrc/1823.png" width="24"> kagebyte://status
+## <img src="https://github.com/kagebyte-inc/.github/raw/master/profile/rsrc/1823.png" width="24"> kagebyte://status
 
 currently experimenting with:
 
